@@ -6,9 +6,9 @@
          
   <display-name>Archetype Created Web Application</display-name>
   
-  <!--  ##################################
+  <!--  ################################################
                       CONFIGURING FRONT CONTROLLER 
-  ####################################-->
+  #################################################-->
   
   <servlet>
   		<servlet-name>dispatcher</servlet-name>
