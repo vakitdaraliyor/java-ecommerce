@@ -7,11 +7,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ecommercefront Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-	
+
 	<properties>
-	<javaee.version>7.0</javaee.version>
+		<javaee.version>7.0</javaee.version>
 	</properties>
-	
+
 	<dependencies>
 
 		<!-- Java EE API -->
@@ -23,7 +23,7 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!-- JUNIT  -->
+		<!-- JUNIT -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
