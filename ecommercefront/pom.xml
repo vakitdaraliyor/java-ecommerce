@@ -33,7 +33,6 @@
 		</dependency>
 		
 		<!-- JSTL -->
-		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 		<dependency>
 			<groupId>jstl</groupId>
 			<artifactId>jstl</artifactId>
