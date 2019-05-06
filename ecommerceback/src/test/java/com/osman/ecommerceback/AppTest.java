@@ -1,4 +1,4 @@
-package com.osman.ecommercefront;
+package com.osman.ecommerceback;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

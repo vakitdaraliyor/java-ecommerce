@@ -1,4 +1,4 @@
-package com.osman.ecommercefront;
+package com.osman.ecommerceback;
 
 /**
  * Hello world!
